@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evinjsubin" alt="evinjsubin" /></a> </p>
 
-- 🔭 I’m currently working on [THE COMEBACK](https://github.com/EVINJSUBIN/THE-COMEBACK)
+- 🔭 I’m currently working on [THE COMEBACK](https://github.com/EVINJSUBIN/THECOMEBACK)
 
 - 🌱 I’m currently **A Student At Class:9 And Also A Full Stack Devloper**
 
