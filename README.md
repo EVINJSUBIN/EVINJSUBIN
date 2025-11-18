@@ -4,7 +4,7 @@
 
 ### 『 Full-Stack Architect • Blockchain Enthusiast • AI Pioneer 』
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+Future%2C+One+Line+at+a+Time;Grade+9+%7C+Full-Stack+Developer;Exploring+AI%2C+Blockchain+%26+Beyond" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+Future%2C+One+Line+at+a+Time;Grade+10+%7C+Full-Stack+Developer;Exploring+AI%2C+Blockchain+%26+Beyond" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=evinjsubin&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
