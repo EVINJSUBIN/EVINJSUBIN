@@ -23,7 +23,7 @@
 ```typescript
 const evin = {
     role: "Full-Stack Developer & Tech Visionary",
-    age: "Grade 9 Student",
+    age: "Grade 10 Student",
     location: "Kerala, India 🇮🇳",
     currentFocus: ["AI Development", "Blockchain", "Web3"],
     learning: ["Cybersecurity", "Cryptography", ".NET Framework"],
